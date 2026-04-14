@@ -11,4 +11,6 @@ dist/
 .vscode/
 .idea/
 
+SKILL.md
+
 next-env.d.ts
