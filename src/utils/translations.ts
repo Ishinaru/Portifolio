@@ -109,6 +109,6 @@ export const translations = {
       copy: '© 2026 David Vinícius Pereira Lima. Crafted with precision and soul.',
     },
   },
-} as const;
+};
 
 export type Translations = typeof translations.pt;
